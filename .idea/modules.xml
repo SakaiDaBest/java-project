@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/Classes Challenge/Classes Challenge.iml" filepath="$PROJECT_DIR$/HelloWorld/Classes Challenge/Classes Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/ConstructorChallenge/ConstructorChallenge.iml" filepath="$PROJECT_DIR$/HelloWorld/ConstructorChallenge/ConstructorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/HelloWorld/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/Inheritance/InheritanceChallenge/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/HelloWorld/Inheritance/InheritanceChallenge/InheritanceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Testing/Java Testing.iml" filepath="$PROJECT_DIR$/Java Testing/Java Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/ObjectClass/ObjectClass.iml" filepath="$PROJECT_DIR$/HelloWorld/ObjectClass/ObjectClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/POJO/POJO.iml" filepath="$PROJECT_DIR$/HelloWorld/POJO/POJO.iml" />
+    </modules>
+  </component>
+</project>

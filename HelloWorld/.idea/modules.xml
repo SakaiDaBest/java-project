@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Classes Challenge/Classes Challenge.iml" filepath="$PROJECT_DIR$/Classes Challenge/Classes Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorChallenge/ConstructorChallenge.iml" filepath="$PROJECT_DIR$/ConstructorChallenge/ConstructorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/InheritanceChallenge/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/Inheritance/InheritanceChallenge/InheritanceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectClass/ObjectClass.iml" filepath="$PROJECT_DIR$/ObjectClass/ObjectClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POJO/POJO.iml" filepath="$PROJECT_DIR$/POJO/POJO.iml" />
+    </modules>
+  </component>
+</project>
