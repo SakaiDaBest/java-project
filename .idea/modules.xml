@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/Classes Challenge/Classes Challenge.iml" filepath="$PROJECT_DIR$/HelloWorld/Classes Challenge/Classes Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/Composition/Composition.iml" filepath="$PROJECT_DIR$/HelloWorld/Composition/Composition.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/ConstructorChallenge/ConstructorChallenge.iml" filepath="$PROJECT_DIR$/HelloWorld/ConstructorChallenge/ConstructorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/HelloWorld/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/HelloWorld/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/Inheritance/InheritanceChallenge/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/HelloWorld/Inheritance/InheritanceChallenge/InheritanceChallenge.iml" />
